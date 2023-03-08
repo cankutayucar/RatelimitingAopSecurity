@@ -1,0 +1,37 @@
+2023-03-05 23:29:34.6748|63|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\canku\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2023-03-05 23:29:34.8986|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7134 
+2023-03-05 23:29:34.9217|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5223 
+2023-03-05 23:29:34.9217|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-03-05 23:29:34.9217|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-03-05 23:29:34.9217|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\loglama\ 
+2023-03-05 23:29:35.2579|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7134/ - - 
+2023-03-05 23:29:35.3048|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'loglama.Controllers.HomeController.Index (loglama)' 
+2023-03-05 23:29:35.3311|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller loglama.Controllers.HomeController (loglama). 
+2023-03-05 23:29:35.3311|0|INFO|loglama.Controllers.HomeController|denemeeeeeeeeeeeeeeeeeeeeee 
+2023-03-05 23:29:35.3497|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2023-03-05 23:29:35.5127|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 166.3431ms. 
+2023-03-05 23:29:35.5196|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action loglama.Controllers.HomeController.Index (loglama) in 188.2536ms 
+2023-03-05 23:29:35.5196|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'loglama.Controllers.HomeController.Index (loglama)' 
+2023-03-05 23:29:35.5632|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7134/ - - - 200 - text/html;+charset=utf-8 306.8494ms 
+2023-03-05 23:29:35.6155|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7134/loglama.styles.css?v=eBEV5KeM8d6dZvYrYN73WOQezXcpEIb-eWMi8xQ8Y-8 - - 
+2023-03-05 23:29:35.6155|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7134/lib/jquery/dist/jquery.min.js - - 
+2023-03-05 23:29:35.6155|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7134/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - 
+2023-03-05 23:29:35.6155|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7134/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - - 
+2023-03-05 23:29:35.6155|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7134/lib/bootstrap/dist/css/bootstrap.min.css - - 
+2023-03-05 23:29:35.6155|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7134/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - - 
+2023-03-05 23:29:35.6155|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7134/_framework/aspnetcore-browser-refresh.js - - 
+2023-03-05 23:29:35.6317|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7134/_framework/aspnetcore-browser-refresh.js - - - 200 11984 application/javascript;+charset=utf-8 14.9717ms 
+2023-03-05 23:29:35.6394|2|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\loglama\wwwroot\js\site.js' 
+2023-03-05 23:29:35.6394|2|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/loglama.styles.css'. Physical path: 'C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\loglama\obj\Debug\net6.0\scopedcss\bundle\loglama.styles.css' 
+2023-03-05 23:29:35.6394|2|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\loglama\wwwroot\css\site.css' 
+2023-03-05 23:29:35.6394|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7134/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - - - 200 230 application/javascript 24.1919ms 
+2023-03-05 23:29:35.6394|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7134/loglama.styles.css?v=eBEV5KeM8d6dZvYrYN73WOQezXcpEIb-eWMi8xQ8Y-8 - - - 200 1124 text/css 24.3348ms 
+2023-03-05 23:29:35.6394|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7134/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - - - 200 194 text/css 24.3854ms 
+2023-03-05 23:29:35.6394|2|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\loglama\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css' 
+2023-03-05 23:29:35.6394|2|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\loglama\wwwroot\lib\jquery\dist\jquery.min.js' 
+2023-03-05 23:29:35.6394|2|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\loglama\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js' 
+2023-03-05 23:29:35.6394|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7134/lib/bootstrap/dist/css/bootstrap.min.css - - - 200 162720 text/css 30.7815ms 
+2023-03-05 23:29:35.6394|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7134/lib/jquery/dist/jquery.min.js - - - 200 89476 application/javascript 30.5546ms 
+2023-03-05 23:29:35.6394|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7134/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - - 200 78468 application/javascript 30.8281ms 
+2023-03-05 23:29:35.6539|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7134/_vs/browserLink - - 
+2023-03-05 23:29:35.6807|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7134/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 26.8480ms 

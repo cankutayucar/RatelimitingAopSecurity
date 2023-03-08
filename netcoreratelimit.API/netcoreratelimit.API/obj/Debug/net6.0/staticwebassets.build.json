@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G0TOyGoaejDB8DPv9EqsZZTDrXv5lDruoiC5AK1snIw=",
+  "Source": "netcoreratelimit.API",
+  "BasePath": "_content/netcoreratelimit.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

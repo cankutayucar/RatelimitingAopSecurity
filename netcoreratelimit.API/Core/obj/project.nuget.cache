@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VAee9NR793S6N78l1NXXSSxuRL5RxuLVan7aaIuwT+M+3WsL1lkUXrsTUNzNrWMaT09v8aw7MMhJ6gVrlDq2VQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\canku\\OneDrive\\Masaüstü\\netcoreratelimit\\netcoreratelimit.API\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\canku\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\canku\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

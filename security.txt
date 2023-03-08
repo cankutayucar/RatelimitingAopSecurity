@@ -1,0 +1,54 @@
+=> data protection
+// security data protection
+builder.Services.AddDataProtection();
+private readonly IDataProtector _dataProtector;
+public HomeController(ILogger<HomeController> logger, IDataProtectionProvider dataProtectionProvider)
+        {
+            _logger = logger;
+            _dataProtector = dataProtectionProvider.CreateProtector("HomeController");
+        }
+ // query string tarafında şifreleme işlemi
+            var dataProtector = _dataProtector.ToTimeLimitedDataProtector(); // şifrelendikten sonra şifre kaç saniye içerisinde çözülecek 
+            var sifreliVeri = dataProtector.Protect("cankutay uçar",TimeSpan.FromSeconds(5));
+            var cozulmusVeri = dataProtector.Unprotect(sifreliVeri);
+
+=> rate limiting 
+
+=> WhiteList/ BlackList Ip
+
+
+=> CORS  Cross site Resource Sharing
+
+
+
+
+=> XSS Cross Site Scripting (Reflected,Stored)
+	cookie,session çalınmasına yönelik bir saldırı
+https://github.com/mganss/HtmlSanitizer server tarafında kullanabilecek kütüphane
+
+
+=> Cross site request forgery (CSRF)
+	validateantiforgerytoken
+
+=> open redirect attacts
+	
+
+=> HTTPS ve HSTS (http strict transport security)
+	app.UseHttpsRedirection(); // http protokolü üzerinden istek yapılırsa https protokolüne yönlendirir
+	app.UseHsts(); // Strict-Transport-Security header(response) 
+	
+=> SQL Injection
+	
+
+
+
+
+
+
+
+
+
+
+
+
+

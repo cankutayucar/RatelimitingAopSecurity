@@ -1,0 +1,15 @@
+C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\ProxyApp\bin\Debug\net6.0\ProxyApp.exe
+C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\ProxyApp\bin\Debug\net6.0\ProxyApp.deps.json
+C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\ProxyApp\bin\Debug\net6.0\ProxyApp.runtimeconfig.json
+C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\ProxyApp\bin\Debug\net6.0\ProxyApp.dll
+C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\ProxyApp\bin\Debug\net6.0\ProxyApp.pdb
+C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\ProxyApp\obj\Debug\net6.0\ProxyApp.csproj.AssemblyReference.cache
+C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\ProxyApp\obj\Debug\net6.0\ProxyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\ProxyApp\obj\Debug\net6.0\ProxyApp.AssemblyInfoInputs.cache
+C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\ProxyApp\obj\Debug\net6.0\ProxyApp.AssemblyInfo.cs
+C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\ProxyApp\obj\Debug\net6.0\ProxyApp.csproj.CoreCompileInputs.cache
+C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\ProxyApp\obj\Debug\net6.0\ProxyApp.dll
+C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\ProxyApp\obj\Debug\net6.0\refint\ProxyApp.dll
+C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\ProxyApp\obj\Debug\net6.0\ProxyApp.pdb
+C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\ProxyApp\obj\Debug\net6.0\ProxyApp.genruntimeconfig.cache
+C:\Users\canku\OneDrive\Masaüstü\netcoreratelimit\netcoreratelimit.API\ProxyApp\obj\Debug\net6.0\ref\ProxyApp.dll

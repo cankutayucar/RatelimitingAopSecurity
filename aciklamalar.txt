@@ -1,0 +1,9 @@
+hangfire 
+fire and forget => bir seferlik çalışacak kod var ise
+delayed => belli bir süre sonra çalışması gereken kodlar var ise
+
+fire and forget ve delayed bunun arasında fark yok ikiside bir defa çalışır ama delayed belirli bir süre sonra çalışır
+
+recurring => belli aralıklarla çalışmasını istediğimiz kodlar var ise bu job türü kullanılır
+
+continuations => diğer joblardan sonra çalışacak bir kod var ise bu job çalışır
